@@ -34,7 +34,7 @@ The next section, showcases an example custom service.
 ## Example Custom Service file
 
 ```python
-# customer service file
+# custom service file
 
 # model_handler.py
 
